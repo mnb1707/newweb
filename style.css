@@ -5,6 +5,7 @@ body, html {
   padding: 0;
   width: 100%;
   font-family: 'Kanit', sans-serif;
+  overflow-x: hidden;
   
 }
 
