@@ -29,11 +29,12 @@ body, html {
 }
 
 .bigtext {
-  font-family: 'Kanit', sans-serif;
-  font-size: 47px;
-  text-align: center;
+  font-size: 20px; /* จาก 47px ลดลงให้พอดี */
+  line-height: 1.4;
+  margin-top: 15px; /* เพิ่มระยะห่างระหว่างรูปกับข้อความ */
   color: #ffffff;
-}
+  font-family: 'Kanit', sans-serif;
+  text-align: center;}
 
 a {
   font-family: 'Kanit', sans-serif;
