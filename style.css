@@ -366,3 +366,31 @@ transform: translateX(-1%);
         height: 250px;
       }
     }
+
+
+/* หัวข้อ */
+.headd { font-size: 40px;
+    color: #000000;
+  
+  }
+
+    /* ตั้งค่าtext */ 
+  .text { font-size: 20px;
+    color: #78202D;
+  width: 1300px;
+  height: auto;
+  padding: 20px;
+  margin: 20px auto;
+  background-color: #fafafb;
+  border: 2px solid #ece9e7;
+  border-radius: 13px;
+  text-align: center;
+
+  }
+
+
+
+  strong {font-size: 30px;
+    color: #000000;}
+
+
